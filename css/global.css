@@ -22,3 +22,12 @@ h3, h4, h5, h6 {
   font-size: 125%;
   font-family: Luckiest Guy;
 }
+
+#map {
+  width: 300px;
+  height: 200px;
+}
+
+.special {
+  font-style: italic;
+}
